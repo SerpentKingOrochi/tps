@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1493220446 source:h:\2017\tp_2\funcionestp2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funcionesTP2.h"
+
+1493220686 h:\2017\tp_2\funcionestp2.h
+	"funcionesTP2.h"
+
+1493220400 source:h:\2017\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funcionesTP2.h"
+
+1493306998 source:g:\2017\tp_2\funcionestp2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funcionesTP2.h"
+
+1493306330 g:\2017\tp_2\funcionestp2.h
+	"funcionesTP2.h"
+
+1493306848 source:g:\2017\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funcionesTP2.h"
+

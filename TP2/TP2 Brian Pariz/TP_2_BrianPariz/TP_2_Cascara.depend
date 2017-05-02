@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1492913411 source:c:\users\brian pariz\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1492913379 source:c:\users\brian pariz\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1492912308 c:\users\brian pariz\desktop\tp_2_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492997187 source:c:\users\brian pariz\desktop\tp_2_brianpariz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1492978819 c:\users\brian pariz\desktop\tp_2_brianpariz\funciones.h
+
+1492993787 source:c:\users\brian pariz\desktop\tp_2_brianpariz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493417241 source:c:\users\alumno\desktop\tp_2_brianpariz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1493220558 c:\users\alumno\desktop\tp_2_brianpariz\funciones.h
+
+1493335884 source:c:\users\alumno\desktop\tp_2_brianpariz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493350162 source:c:\users\brian pariz\google drive\tp_2_brianpariz\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1493234958 c:\users\brian pariz\google drive\tp_2_brianpariz\funciones.h
+
+1493350284 source:c:\users\brian pariz\google drive\tp_2_brianpariz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1492972092 source:c:\users\flago\workspacec\fra\programacion i\tp\01\tp_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1493175744 source:c:\users\flago\workspacec\fra\programacion i\tp\01\tp_02\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<time.h>
+	"utn.h"
+
+1493174963 c:\users\flago\workspacec\fra\programacion i\tp\01\tp_02\utn.h
+
